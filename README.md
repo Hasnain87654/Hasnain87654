@@ -1,16 +1,16 @@
-## Hi there 👋
+# 🚧 Under Construction 🚧
 
-<!--
-**Hasnain87654/Hasnain87654** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub Pages site!  
 
-Here are some ideas to get you started:
+This site is currently **under construction**, but something awesome is coming soon. Stay tuned!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 What to Expect  
+- Scratch & Roblox projects  
+- Coding tutorials (Python, Scratch, etc.)  
+- Fun experiments and games  
+
+### 🔗 Check Back Soon!  
+In the meantime, feel free to check out my projects and follow me for updates.  
+
+---
+🚀 **Stay tuned for more updates!**
